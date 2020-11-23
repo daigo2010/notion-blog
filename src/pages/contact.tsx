@@ -6,7 +6,6 @@ import contactStyles from '../styles/contact.module.css'
 
 import GitHub from '../components/svgs/github'
 import Twitter from '../components/svgs/twitter'
-import Qiita from '../components/svgs/qiita'
 
 const contacts = [
   {
